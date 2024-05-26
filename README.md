@@ -1,7 +1,7 @@
-<h1>
-  Hey There
+<h2>
+  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="50px"/>
-</h1>
+</h2>
 
 👨‍💻I am python enthusiast with big dreams of mastering the clouds ☁️ 
 
